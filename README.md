@@ -2,11 +2,11 @@
   
 ## Hi, I am Irene 👋 
 
-- Six years of programming experience with Python and R. Expert in large datasets analysis.
-- Experienced in predictive modeling pipelines using applied statistics and machine learning.
-- Experienced in Deep Learning applied to medical imaging and NLP
+- Programming experience with Python and R. Expert in large datasets analysis.
+- Experience in predictive modeling pipelines using applied statistics and machine learning.
+- Experience in Deep Learning applied to medical imaging and NLP
 - Experience in mentoring and supervision.
-- More six years of experience in bioinformatics, with a focus on transcriptomics, highlighting research in characterization of cancer subtypes
+- More than six years of experience in bioinformatics, with a focus on transcriptomics, highlighting research in characterization of cancer subtypes
 - Over a year of experience in ML applied to predictive modelling in reproductive medicine.
   
  <p align="center"><a href="https://es.linkedin.com/in/irenepd"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" align="center" alt="Linkedin Account" width="30"/></a> <a href="https://www.kaggle.com/ipediez"><img src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" title="Kaggle" alt="Kaggle Account" width="40"/></a> 

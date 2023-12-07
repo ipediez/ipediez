@@ -4,10 +4,12 @@
 
 - Programming experience with Python and R. Expert in large datasets analysis.
 - Experience in predictive modeling pipelines using applied statistics and machine learning.
-- Experience in Deep Learning applied to medical imaging and NLP
+- Experience in Deep Learning applied to medical imaging and NLP.
+- Experience in ML applied to predictive modelling in reproductive medicine.
 - Experience in mentoring and supervision.
-- More than six years of experience in bioinformatics, with a focus on transcriptomics, highlighting research in characterization of cancer subtypes
-- Over a year of experience in ML applied to predictive modelling in reproductive medicine.
+- More than six years of experience in bioinformatics, including:
+  - Transcriptomics, highlighting research in characterization of cancer subtypes
+  - Genomics, highlighting SNP calling and ancestry analyses
   
  <p align="center"><a href="https://es.linkedin.com/in/irenepd"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" align="center" alt="Linkedin Account" width="30"/></a> <a href="https://www.kaggle.com/ipediez"><img src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" title="Kaggle" alt="Kaggle Account" width="40"/></a> 
 

@@ -16,7 +16,7 @@ PhD in Biotechnology with 6+ years of experience in NGS data analysis and comput
 - Cancer subtyping research (PDAC, NSCLC) using transcriptomics
 - Single-cell & bulk RNA-seq, WGS, variant analysis
 - AI/ML applied to diagnostics (cfRNA, medical imaging, NLP)
-- Former Data Wrangler at **EMBL-EBI** for the **Human Cell Atlas**
+- Former Data Wrangler at EMBL-EBI for the Human Cell Atlas
 - Published researcher in peer-reviewed journals
 - Building full-stack web applications as a side passion
 
@@ -72,7 +72,7 @@ PhD in Biotechnology with 6+ years of experience in NGS data analysis and comput
 **Notable Projects**
 
 - **Human Cell Atlas** — Data curation at EMBL-EBI
-- **DeepHealth** — EU Horizon 2020, Deep Learning for medical imaging
+- **DeepHealth** — Modelling and Testing - Deep Learning for medical imaging, EU Horizon 2020
 
 
 ---

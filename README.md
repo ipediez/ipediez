@@ -57,7 +57,7 @@ PhD in Biotechnology with 6+ years of experience in NGS data analysis and comput
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Soundmark**](https://github.com/ipediez/soundmark-app) | Music encyclopedia with artist discovery | Next.js, Supabase, TypeScript, Last.fm API |
-| [**Lespurna**](https://github.com/ipediez/lespurna-web) | Band website with event integration | Next.js, Tailwind CSS |
+| [**Lespurna**](https://github.com/ipediez/lespurna-OfficialWebsite) | Band website with event integration | Next.js, Tailwind CSS |
 
 ---
 
